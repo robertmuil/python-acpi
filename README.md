@@ -3,11 +3,9 @@ python-acpi
 
 Python acpi parser library
 
-__Author__: Ondrej Sika, <http://ondrejsika.com>, <ondrej@ondrejsika.com>
-
-__GitHub__: <https://github.com/ondrejsika/python-acpi>
-
-__PyPI__: <http://pypi.python.org/pypi/acpi>
+* __Author__: Ondrej Sika, <http://ondrejsika.com>, <ondrej@ondrejsika.com>
+* __GitHub__: <https://github.com/ondrejsika/python-acpi>
+* __PyPI__: <http://pypi.python.org/pypi/acpi>
 
 
 Documentation
@@ -22,8 +20,8 @@ pip install acpi
 ### Functions
 #### acpi.acpi()
 
-Response is list tuples of batteries. Each tuple includes battery name, status, battery level in percent, remaining time in seconds and strin uptime.
-`
+Response is list tuples of batteries. Each tuple includes battery name, status, battery level in percent, remaining time in seconds and stringify remaining time.
+
 
 ### Usage
 ``` python
